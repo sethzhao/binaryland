@@ -1,0 +1,19 @@
+{
+    "res":{
+        "walk0001": {"x":102,"y":2,"w":30,"h":32,"offX":2,"offY":0,"sourceW":32,"sourceH":32},
+        "walk0002": {"x":36,"y":2,"w":32,"h":32},
+        "walk0003": {"x":70,"y":2,"w":30,"h":32,"offX":0,"offY":0,"sourceW":32,"sourceH":32},
+        "walk0004": {"x":2,"y":2,"w":32,"h":32}
+    },
+    "frames": {
+        "walk": {
+            "totalFrame": 4,
+            "childrenFrame": [
+                {"res":"walk0001","x":0,"y":0},
+                {"res":"walk0002","x":0,"y":0},
+                {"res":"walk0003","x":0,"y":0},
+                {"res":"walk0004","x":0,"y":0}
+            ]
+        }
+    }
+}
